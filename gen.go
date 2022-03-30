@@ -18,7 +18,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/shurcooL/graphql/ident"
+	"github.com/hasura/go-graphql-client/ident"
 )
 
 func main() {

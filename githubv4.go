@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/shurcooL/graphql"
+	"github.com/hasura/go-graphql-client"
 )
 
 // Client is a GitHub GraphQL API v4 client.
